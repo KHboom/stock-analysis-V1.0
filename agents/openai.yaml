@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股基本面选股"
+  short_description: "按产业相关性、财务质量、产业地位和估值对A股公司进行基本面筛选。"
+  default_prompt: "使用 fundamental-stock-selection 对输入的A股上市公司做基本面筛选，不给买卖点，输出评级、评分、风险和观察池结论。"
